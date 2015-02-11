@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="moma_yellow">#E8C351</color>
+    <color name="moma_black">#2B1F1F</color>
+    <color name="moma_sky">#70ABCD</color>
+    <color name="white">#F5F5F5</color>
+    <color name="moma_purple">#7C3F6B</color>
+    <color name="moma_green">#A5B869</color>
+</resources>

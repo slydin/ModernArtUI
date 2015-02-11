@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernArtUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="more_info">More Information</string>
+    <string name="more_info_dialog">Would you like to similar works of art? Click below!</string>
+    <string name="more_info_accept">Visit MOMA</string>
+    <string name="more_info_deny">Not Now</string>
+
+</resources>
